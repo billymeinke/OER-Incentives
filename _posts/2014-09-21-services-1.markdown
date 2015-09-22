@@ -1,8 +1,8 @@
 ---
 layout: default
-img: ipad.png
+img: survey.png
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: A Survey about OER Incentives
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+  Most of us can agree that OERs are good for education, in that they help broaden access to learning and lend to more flexible, relevant courseware that we can build together. What's less clear is how we are rewarding faculty and staff that involve openness in their work at higher education institutions (HEI).

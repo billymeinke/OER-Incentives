@@ -1,8 +1,8 @@
 ---
 layout: default
-img: phones.png
+img: data.png
 category: Services
-title: Google Web Fonts and<br>Font Awesome Icons
+title: The Data<br>So you can work on it, too
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+All cleaned and anonymized data from this survey will be shared on fig<strong>share</strong>. That way others can run analyses that we weren't able to prioritize or carry out.
